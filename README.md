@@ -1,3 +1,5 @@
+[![Autograding Tests](https://github.com/Deklan-white/22-Strings-of-Fate/actions/workflows/classroom.yml/badge.svg)](https://github.com/Deklan-white/22-Strings-of-Fate/actions/workflows/classroom.yml)
+
 # Stringy Spells
 >The Wizards Council is working on new sets of spells to teach the up and ocming wizard trainees.  These are all magic based on word analysis and choice.  Help the mages construct new spells by completing the tasks below.
 
